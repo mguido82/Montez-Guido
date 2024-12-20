@@ -10,7 +10,7 @@
 [youtube]: 
 [instagram]: 
 [linkedin]: 
-
+🌱 I’m currently learning: Amazon Web Services(AWS): Solutions Architect Associate and Terraform Associate (003)
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
